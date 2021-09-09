@@ -1,0 +1,11 @@
+.bar_height{
+    width: 10px;
+    background-color: coral;
+    /* display: inline-block; */
+    margin: 0 2px;
+    float: left;
+}
+
+#bar{
+    padding: 0 50px;
+}
